@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### SELAMAT DATANG 👋
+di GitHub 
+## <b>ARLAN ADY PRATAMA</b>
+POLITEKNIK NEGERI MALANG x TEKNOLOGI INFORMASI
 <!--
 **arlanady/arlanady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
